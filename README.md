@@ -19,4 +19,4 @@ Este proyecto es una aplicación de **React** desarrollada para la asignatura de
 - `ventas.json`: Fuente de datos de las figuras.
 
 ## ✒️ Autora
-**Lilian Zapata** - Estudiante de Desarrollo de Aplicaciones
+**Lilian Zapata** - Estudiante de Desarrollo de Aplicaciones# semana7frontend
